@@ -273,7 +273,7 @@ The expression passed into `sizeof` is not actually evaluated at runtime in most
 <a href="https://github.com/meetupgpsolapur/C-Programming/blob/master/Part-2_README.md">
 Back: C Programming, Part 2: Text Input And Output
 </a> |
-<a href="">
+<a href="https://github.com/meetupgpsolapur/C-Programming/blob/master/Part-4_README.md">
 Next: C Programming, Part 4: Strings and Structs
 </a>
 </div>
