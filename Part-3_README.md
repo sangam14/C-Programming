@@ -1,4 +1,4 @@
-What common mistakes do C programmers make?
+## What common mistakes do C programmers make?
 
 # Memory Mistakes
 
