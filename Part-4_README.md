@@ -261,7 +261,7 @@ picture = |       |       |               |               |
 <a href="https://github.com/meetupgpsolapur/C-Programming/blob/master/Part-3_README.md">
 Back: C Programming, Part 3: Common Gotchas
 </a> |
-<a href="">
+<a href="https://github.com/meetupgpsolapur/C-Programming/blob/master/Part-5_README.md">
 Next: C Programming, Part 5: Debugging
 </a>
 </div>
