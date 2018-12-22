@@ -339,5 +339,5 @@ Don't worry more to come!
 
 <div align="center">
 <a href="https://github.com/meetupgpsolapur/C-Programming/blob/master/Part-2_README.md">
-Back: C Programming, Part 2: Text Input And Output
+lets start-->: C Programming, Part 2: Text Input And Output
 </a> |
